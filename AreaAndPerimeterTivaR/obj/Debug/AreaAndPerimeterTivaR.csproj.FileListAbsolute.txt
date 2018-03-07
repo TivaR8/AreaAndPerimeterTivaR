@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\bin\Debug\AreaAndPerimeterTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\bin\Debug\AreaAndPerimeterTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\bin\Debug\AreaAndPerimeterTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\obj\Debug\AreaAndPerimeterTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\obj\Debug\AreaAndPerimeterTivaR.frmAreaAndPerimeter.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\obj\Debug\AreaAndPerimeterTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\obj\Debug\AreaAndPerimeterTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\obj\Debug\AreaAndPerimeterTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 1 (Problem Solving)\AreaAndPerimeterTivaR\AreaAndPerimeterTivaR\obj\Debug\AreaAndPerimeterTivaR.pdb
